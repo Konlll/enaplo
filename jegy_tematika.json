@@ -1,0 +1,79 @@
+[
+    {
+        "_id": {
+            "$oid": "600b12377c311d529c0c86fb"
+        },
+        "id": "2423423423",
+        "nev": "Kun Attila",
+        "szeptember": [
+            {
+                "jegy_id": 1740749759,
+                "tipus": "Na",
+                "tema": "Bemutatkozás",
+                "jegy": "2",
+                "datum": "2020-09-01"
+            },
+            {
+                "jegy_id": 404421605,
+                "tipus": "Szóbeli felelet",
+                "tema": "Javító",
+                "jegy": "3",
+                "datum": "2020-09-02"
+            },
+            {
+                "jegy_id": 1687443153,
+                "tipus": "Szóbeli felelet",
+                "tema": "Javító 2",
+                "jegy": "5",
+                "datum": "2020-09-03"
+            }
+        ],
+        "oktober": [],
+        "november": [],
+        "december": [],
+        "januaregy": [],
+        "elsofelev": [],
+        "januarketto": [],
+        "februar": [],
+        "marcius": [],
+        "aprilis": [],
+        "majus": [],
+        "junius": [],
+        "masodikfelev": []
+    },
+    {
+        "_id": {
+            "$oid": "600b12377c311d529c0c86fc"
+        },
+        "id": "48239322",
+        "nev": "Kiss Pista",
+        "szeptember": [
+            {
+                "jegy_id": 529234111,
+                "tipus": "Na",
+                "tema": "Bemutatkozás",
+                "jegy": "4",
+                "datum": "2020-09-01"
+            },
+            {
+                "jegy_id": 1202530884,
+                "tipus": "Szóbeli felelet",
+                "tema": "Javító",
+                "jegy": "1",
+                "datum": "2020-09-02"
+            }
+        ],
+        "oktober": [],
+        "november": [],
+        "december": [],
+        "januaregy": [],
+        "elsofelev": [],
+        "januarketto": [],
+        "februar": [],
+        "marcius": [],
+        "aprilis": [],
+        "majus": [],
+        "junius": [],
+        "masodikfelev": []
+    }
+]
